@@ -1,4 +1,4 @@
-#Results Checker
+# Results Checker
 
 Simple Python script to check results by trying different index numbers with known names.
 
