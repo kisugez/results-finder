@@ -2,6 +2,13 @@
 
 Simple Python script to check results by trying different index numbers with known names.
 
+![Python](https://img.shields.io/badge/Python-3.7+-3776AB?logo=python&logoColor=white)
+![CLI](https://img.shields.io/badge/CLI-Tool-green)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4-yellow)
+![Requests](https://img.shields.io/badge/Requests-HTTP-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 ## Description
 
 Lightweight demo: a small reusable script that probes a results page by submitting index/name combinations, saves matching HTML results, and prints a short terminal summary. The KCSE example shows how the tool works; the same approach can be adapted for other public record or results sites.
